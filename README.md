@@ -1,7 +1,7 @@
-![GitHub license](https://img.shields.io/github/license/SkvizyBoy/universal-boilerplate?style=flat-square&color=blue)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/SkvizyBoy/universal-boilerplate?style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/SkvizyBoy/universal-boilerplate?style=flat-square&color=blue)](https://github.com/SkvizyBoy/universal-boilerplate/blob/main/LICENSE)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/SkvizyBoy/universal-boilerplate?style=flat-square)](https://github.com/SkvizyBoy/universal-boilerplate/blob/main/package.json)
 ![Node.js Version](https://img.shields.io/badge/Node.js-24+-green?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SkvizyBoy/universal-boilerplate/pulls)
 # 🚀 Universal Fullstack Boilerplate
 
 Универсальный монорепозиторий для быстрого старта веб-проектов любого масштаба: SaaS, маркетплейсы, MVP, интернет-магазины, блоги, панели управления и не только. Шаблон уже содержит базовую архитектуру, рабочую БД, API и фронтенд, чтобы ты не тратил время на рутину и сразу начинал писать бизнес-логику.
